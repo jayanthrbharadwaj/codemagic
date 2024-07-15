@@ -1,1 +1,1 @@
-export const App = () => {console.log('Hello from the remote chunk!');};
+var o=()=>{console.log("Hello from the remote chunk!")};export{o as App};
