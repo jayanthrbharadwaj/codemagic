@@ -1,1 +1,1 @@
-var o=()=>{console.log("Hello from the remote chunk!")};export{o as App};
+var o=()=>{console.log("Hello from the remote chunk!")};{o as App};
